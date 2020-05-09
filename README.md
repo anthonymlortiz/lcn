@@ -2,6 +2,8 @@
 PyTorch implementation for [Local Context Normalization: Revisiting Local Normalization.](https://arxiv.org/abs/1912.05845) 
 Accepted to CVPR 2020 (Oral).
 
+![LCN figure](https://github.com/anthonymlortiz/lcn/blob/master/lcn.png)
+
 # Citation
 If you use this code for your research, please cite our paper.
 
